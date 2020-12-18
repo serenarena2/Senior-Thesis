@@ -15,8 +15,9 @@ affect GDP per capita and concluded that a one unit increase in the Gini Index, 
 lead to a 1.715% decrease in economic growth.
 
 
+
 Running the files: 
 1. required datafiles are under 'dataset folder'
 2. download datafiles
 3. run file 'Serena Weimer Python Eco 400'
-4. run file 'Serena Weimer R Eco 400' 
+4. run file 'Serena Weimer R Eco 400 Updated' 
