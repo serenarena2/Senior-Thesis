@@ -1,4 +1,4 @@
-# Senior Thesis - Pace University 
+# Senior Thesis - Pace University - How Does Sustainable Development Effect Economic Growth in the Long Run? 
 Conducted research on sustainable development variables and measured their effect on economic growth using a panel regression model. 
 
 The purpose of this project is to understand how nations measure their success and whether these
