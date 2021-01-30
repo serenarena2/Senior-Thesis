@@ -1,5 +1,5 @@
 # Senior Thesis - Pace University - How Does Sustainable Development Effect Economic Growth in the Long Run? 
-Conducted research on sustainable development variables and measured their effect on economic growth using a panel regression model. 
+Conducted research on sustainable development variables and measured their effect on economic growth using panel data in the regression model. 
 
 The purpose of this project is to understand how nations measure their success and whether these
 measures are enough to satisfy both the needs of the economy as well as the natural world. The aim of this study is to use indicators that establish a measurement
